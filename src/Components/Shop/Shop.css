@@ -1,0 +1,11 @@
+.allSection{
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+}
+.allCart{
+    border-left: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 50px;
+}
